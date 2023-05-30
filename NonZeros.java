@@ -1,5 +1,5 @@
 package InputIntoArrayFromUser;
-
+/*find the number of non Zeros elements in an array and also sum of array and the average of array*/
 import java.util.Arrays;
 import java.util.Scanner;
 
