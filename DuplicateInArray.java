@@ -1,6 +1,5 @@
-package DuplicateInArray;
-
-public class Main {
+// find the duplicates in an array using java
+public class DuplicateInArray {
 
 	public static void main(String[] args) {
 		int[] arr = { 1, 2, 3, 4, 5, 6, 2 };
